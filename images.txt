@@ -1,1 +1,2 @@
-ollama/ollama:0.1.44@sha256:1174d6119998bb10f5af2437e7aeeb934726e37268f0d66f200f6cfd9fb20578
+--platform=linux/arm64 1panel/maxkb:v1.2.1
+--platform=linux/arm64 ollama/ollama:0.1.44
