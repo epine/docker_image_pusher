@@ -1,2 +1,2 @@
---platform=linux/arm64 1panel/maxkb:v1.2.1
---platform=linux/arm64 ollama/ollama:0.1.44
+
+--platform=linux/arm64 nvidia/cuda:12.5.0-base-ubuntu20.04
