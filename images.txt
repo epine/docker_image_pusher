@@ -1,2 +1,5 @@
 
---platform=linux/arm64 nvidia/cuda:12.5.0-base-ubuntu20.04
+--platform=linux/arm64 jitsi/web:stable-9457-2
+--platform=linux/arm64 jitsi/prosody:stable-9457-2
+--platform=linux/arm64 jitsi/jicofo:stable-9457-2
+--platform=linux/arm64 jitsi/jvb:stable-9457-2
