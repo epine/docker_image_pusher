@@ -1,5 +1,2 @@
 
---platform=linux/arm64 jitsi/web:stable-9457-2
---platform=linux/arm64 jitsi/prosody:stable-9457-2
---platform=linux/arm64 jitsi/jicofo:stable-9457-2
---platform=linux/arm64 jitsi/jvb:stable-9457-2
+--platform=linux/arm64 keejo/anyq:1.0
