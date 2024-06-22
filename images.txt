@@ -1,2 +1,2 @@
 
---platform=linux/arm64 keejo/anyq:1.0
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.10.2
