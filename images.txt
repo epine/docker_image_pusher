@@ -1,2 +1,2 @@
 
---platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.10.2
+--platform=linux/arm64 1panel/maxkb:v1.3.1
