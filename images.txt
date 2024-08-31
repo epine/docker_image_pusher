@@ -1,1 +1,1 @@
---platform=linux/arm64 1panel/maxkb:v1.4.0
+--platform=linux/arm64 1panel/maxkb:v1.5.1
